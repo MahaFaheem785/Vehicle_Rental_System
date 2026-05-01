@@ -50,7 +50,7 @@ VehicleRentalSystem/
 2. Clone the repository:
 
 ```
-git clone https://github.com/....
+git clone https://github.com/MahaFaheem785/Vehicle_Rental_System
 ```
 
 3. Go to project folder:
